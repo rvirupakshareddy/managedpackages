@@ -1,5 +1,5 @@
 public class EndpointInformationController {
-    public Endpoint_Information__c endpoint{get; set;}
+    public tmmp__Endpoint_Information__c endpoint{get; set;}
     
     /* Constructor */
     public EndpointInformationController(){
