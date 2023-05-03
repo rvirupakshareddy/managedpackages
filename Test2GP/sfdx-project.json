@@ -1,0 +1,17 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    },
+   
+  ],
+  "name": "Test2GP",
+  "namespace": "tmmp",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "56.0",
+  "packageAliases": {
+    "2gptest": "0Ho5i000000k9l3CAA",
+    "2gptmtest": "0Ho5i000000k9l8CAA"
+  }
+}

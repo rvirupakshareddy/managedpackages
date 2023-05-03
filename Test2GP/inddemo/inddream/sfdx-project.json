@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "source-folder",
+      "default": true
+    }
+  ],
+  "name": "inddream",
+  "namespace": "tmmp",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "57.0"
+}
