@@ -1,0 +1,12 @@
+<apex:page controller="EndpointInformationController">
+    <apex:form>
+    	<apex:pageBlock title="Endpoint Information">
+            <apex:pageBlockButtons>
+            	<apex:commandButton action="{!saveRecord}" value="Save"/>
+            </apex:pageBlockButtons>
+            <apex:pageBlockSection title="details">
+                <apex:inputField value="{!endpoint.Name}"/>
+            </apex:pageBlockSection>
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>
